@@ -1,0 +1,22 @@
+.slideItem {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-slides/nxt-slides-bg.png');
+  height: 100%;
+  background-size: cover;
+  margin: 10px;
+  margin-left: 20px;
+}
+
+.slideItem1 {
+  display: flex;
+  flex-direction: row;
+  min-height: 20vh;
+  width: 15vw;
+}
+
+.colored {
+  background-color: #dbeafe;
+}
+
+.head {
+  font-size: 20px;
+}
